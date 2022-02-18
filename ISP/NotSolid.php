@@ -2,13 +2,10 @@
 
 interface AnimalInterface {
   public function walk();
-}
-
-interface BirdInterface {
   public function fly();
 }
 
-class Parrot implements AnimalInterface, BirdInterface {
+class Parrot implements AnimalInterface {
   public function walk() {
     echo 'im walking...';
   }
@@ -18,7 +15,7 @@ class Parrot implements AnimalInterface, BirdInterface {
   }
 }
 
-class Penguin implements AnimalInterface, BirdInterface {
+class Penguin implements AnimalInterface {
   public function walk() {
     echo 'im walking...';
   }
