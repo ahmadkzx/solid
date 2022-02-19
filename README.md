@@ -11,5 +11,5 @@ SOLID is an acronym for the first five object-oriented design (OOD) principles b
 
 **Resources**:
 
- - [Solid Principles (Youtube) - ParsPack](https://www.youtube.com/watch?v=VpH6OfyYrF0)
+ - [Solid Principles (Youtube) - ParsClick](https://www.youtube.com/watch?v=VpH6OfyYrF0)
  - [Solid Principles - Stackify](https://stackify.com/solid-design-principles)
